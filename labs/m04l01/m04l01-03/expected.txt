@@ -1,0 +1,4 @@
+negotiated protocol: TLSv1.3
+cipher suite: TLS_AES_256_GCM_SHA384
+peer subject: ('commonName', 'orders.internal')
+server said: hello from the orders service

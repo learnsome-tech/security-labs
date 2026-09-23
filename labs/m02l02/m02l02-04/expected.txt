@@ -1,0 +1,6 @@
+internal error: template step failed
+diagnostics, environment follows:
+ - API_TOKEN = sk-live-4d1f-demo
+ - LANG = C.UTF-8
+ - PATH = /usr/bin
+ - SERVICE = billing

@@ -1,0 +1,2 @@
+default REJECT uid 0 read only False caps all
+hardened ACCEPT uid 10001 read only True caps none

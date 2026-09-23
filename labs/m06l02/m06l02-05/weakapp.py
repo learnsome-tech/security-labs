@@ -1,0 +1,8 @@
+# Application Security & Threat Modeling for Engineers — lesson m06l02 — Dynamic Scanning
+# https://learnsome.tech/courses/security-course/watch?lesson=m06l02
+# © LearnSome.tech
+from http.server import BaseHTTPRequestHandler
+class Weak(BaseHTTPRequestHandler):
+    def log_message(self, *args): pass
+    def do_GET(self):
+        self.send_response(200); self.end_headers(); self.wfile.write(b'ok')

@@ -1,0 +1,6 @@
+billing receives: Lease(version 1)
+value ends with: demo
+refused: reports may not read stripe-key
+audit trail:
+ - billing stripe-key granted
+ - reports stripe-key denied

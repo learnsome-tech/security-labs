@@ -1,0 +1,5 @@
+source: repo@example/checkout revision 777
+builder: ci trusted pool
+source digest recorded: be9c4f7002b72114
+policy accepts builder: True
+policy accepts revision: True

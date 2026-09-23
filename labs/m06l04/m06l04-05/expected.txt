@@ -1,0 +1,2 @@
+new token rejected
+environment lookup accepted

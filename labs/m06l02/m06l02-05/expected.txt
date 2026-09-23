@@ -1,0 +1,5 @@
+MISSING Content-Security-Policy
+MISSING X-Content-Type-Options
+MISSING X-Frame-Options
+MISSING Strict-Transport-Security
+banner names the stack: True

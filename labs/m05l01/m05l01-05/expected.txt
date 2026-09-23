@@ -1,0 +1,4 @@
+allow  requests==2.32.3
+REJECT urllib3>=2.0 - not pinned to a single version
+allow  colorama==0.4.6
+REJECT leftpad-py==0.0.1 - unreviewed name, open a review

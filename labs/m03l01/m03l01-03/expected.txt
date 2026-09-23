@@ -1,0 +1,4 @@
+shell: cat report.txt
+normal: quarterly numbers
+shell: cat report.txt; echo I-am-running-as-you
+attack: quarterly numbers and then I-am-running-as-you

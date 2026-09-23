@@ -1,0 +1,5 @@
+ok       requests
+SUSPECT  colourama - one edit from colorama - key slip: False
+SUSPECT  urllib4 - one edit from urllib3 - key slip: True
+SUSPECT  python-datutil - one edit from python-dateutil - key slip: False
+SUSPECT  reqiests - one edit from requests - key slip: True

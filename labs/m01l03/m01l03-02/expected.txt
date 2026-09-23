@@ -1,0 +1,3 @@
+ALLOW s3:GetObject arn:aws:s3:::reports/june.csv
+ALLOW s3:DeleteBucket arn:aws:s3:::production-backups
+ALLOW s3:PutBucketPolicy arn:aws:s3:::production-backups

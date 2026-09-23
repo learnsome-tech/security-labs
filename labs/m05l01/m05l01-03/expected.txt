@@ -1,0 +1,8 @@
+installer: the package declares a build backend
+installer: asking the backend what it needs
+  [hook] arbitrary code, before a single file is installed
+  [hook] can i read the environment: True
+  [hook] can i write to the disk: yes, see below
+installer: asking the backend to build
+installer: got friendly_utils-1.0.0-py3-none-any.whl
+left behind by the build: True

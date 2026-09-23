@@ -1,0 +1,5 @@
+root uid 0 can bind privileged port: True
+  write policy: all writable paths
+app uid 10001 can bind privileged port: False
+  write policy: application paths only
+deployment accepts uid zero: False

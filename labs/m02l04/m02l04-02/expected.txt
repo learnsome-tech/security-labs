@@ -1,0 +1,4 @@
+application stores a key: True
+key fingerprint: 3653f0e105fe
+valid after a week: True
+valid after a leak: True

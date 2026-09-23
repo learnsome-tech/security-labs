@@ -1,0 +1,7 @@
+Run started:2026-09-11 12:00:00
+Test results:
+>> Issue: [B307:blacklist] Use of possibly insecure function - eval.
+   Severity: Medium   Confidence: High
+   Location: app.py:4
+Code scanned: 5 lines
+Total issues (by severity): High: 0, Medium: 1, Low: 0

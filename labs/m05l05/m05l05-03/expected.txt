@@ -1,0 +1,4 @@
+unsafe base: python:3.14 explicit user: False
+  verdict: REJECT root default
+safer base: python:3.14-slim explicit user: True
+  verdict: OK non root declared

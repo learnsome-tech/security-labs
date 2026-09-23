@@ -1,0 +1,8 @@
+known route: served under policy owner
+brand new route, permissive: served without any check
+Traceback (most recent call last):
+  File "failclosed.py", line 13, in <module>
+    print("brand new route, fail closed:", route("/refunds", False))
+  File "failclosed.py", line 8, in route
+    raise LookupError("no policy declared for " + path)
+LookupError: no policy declared for /refunds

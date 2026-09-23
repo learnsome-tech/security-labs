@@ -1,0 +1,4 @@
+bob is authenticated: True
+bob asks for his own note: bob lunch order
+bob asks for note one: no such note
+authorisation answers what you may touch

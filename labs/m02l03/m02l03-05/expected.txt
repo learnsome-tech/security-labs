@@ -1,0 +1,5 @@
+version one at the upstream: accepted
+rotation stores version: 2
+current version is now: 2
+version two at the upstream: accepted
+version one at the upstream: rejected

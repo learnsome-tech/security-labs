@@ -1,0 +1,11 @@
+{
+  "report-cli":   {"maintainers": ["ana"],          "deps": ["httpx", "rich"]},
+  "httpx":        {"maintainers": ["ben", "cleo"],  "deps": ["httpcore", "idna"]},
+  "rich":         {"maintainers": ["dmi"],          "deps": ["pygments"]},
+  "httpcore":     {"maintainers": ["ben"],          "deps": ["h11", "certifi"]},
+  "idna":         {"maintainers": ["eli"],          "deps": []},
+  "pygments":     {"maintainers": ["fay", "gus"],   "deps": []},
+  "h11":          {"maintainers": ["hal"],          "deps": []},
+  "certifi":      {"maintainers": ["ivy"],          "deps": ["setuptools-lite"]},
+  "setuptools-lite": {"maintainers": ["jon"],       "deps": []}
+}

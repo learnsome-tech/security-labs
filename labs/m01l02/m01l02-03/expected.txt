@@ -1,0 +1,3 @@
+bob is authenticated: True
+bob asks for his own note: bob lunch order
+bob asks for note one: alice pay rise proposal

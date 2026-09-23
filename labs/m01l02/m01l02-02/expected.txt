@@ -1,0 +1,4 @@
+stored key length in bytes: 64
+right password: True
+wrong password: False
+authentication answers who you are, and nothing else

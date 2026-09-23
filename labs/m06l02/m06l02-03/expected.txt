@@ -1,0 +1,4 @@
+before the probe: owner@example.com
+no credential sent, server answered: 204
+after the probe: attacker@example.com
+state changed with no credential: True

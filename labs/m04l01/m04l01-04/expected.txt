@@ -1,0 +1,4 @@
+handshake completed, protocol: TLSv1.3
+cipher suite negotiated: TLS_AES_256_GCM_SHA384
+certificate the client validated: {}
+encrypted, and nobody proved who they were

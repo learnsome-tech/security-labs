@@ -1,0 +1,6 @@
+GET /health anonymous ok
+POST /orders auth ok
+POST /internal/refund anonymous FINDING
+GET /orders/{id} auth ok
+routes: 4
+anonymous and state changing: 1

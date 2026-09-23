@@ -1,0 +1,2 @@
+subjectAltName = DNS:orders.internal
+basicConstraints = CA:FALSE

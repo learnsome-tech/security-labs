@@ -1,0 +1,3 @@
+working tree scan: clean
+add settings contains token: True
+move to environment contains token: False

@@ -1,0 +1,7 @@
+starting in production
+  debug = True
+  verify_tls = False
+  allowed_origins = *
+  cookie_secure = False
+  admin_password = changeme
+nobody typed anything wrong, and every setting is unsafe

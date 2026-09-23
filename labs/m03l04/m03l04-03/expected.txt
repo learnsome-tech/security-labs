@@ -1,0 +1,2 @@
+tag returned as markup: False
+<p>&lt;script&gt;steal()&lt;/script&gt;</p>

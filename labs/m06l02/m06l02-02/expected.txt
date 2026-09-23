@@ -1,0 +1,3 @@
+probe sent: <script>steal()</script>
+page body: <p>you searched for <script>steal()</script></p>
+payload came back unescaped: True

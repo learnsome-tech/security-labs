@@ -1,0 +1,4 @@
+authority vouched for the name: True
+pin shipped with the client matches: True
+pin from last year matches: False
+pinning trades one outage risk for one attack

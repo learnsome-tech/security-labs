@@ -1,0 +1,5 @@
+debian-full packages: 7 shell: True package manager: True
+  reachable tools: bash, apt, curl, perl, libc, openssl, ca-certificates
+distroless-runtime packages: 2 shell: False package manager: False
+  reachable tools: libc, ca-certificates
+smallest base: distroless-runtime

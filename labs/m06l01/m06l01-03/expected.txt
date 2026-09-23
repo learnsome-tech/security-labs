@@ -1,0 +1,3 @@
+app.py 2 SEC103 credential in source
+app.py 4 SEC101 eval on request data
+app.py 6 SEC104 weak hash for a token

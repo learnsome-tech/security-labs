@@ -1,0 +1,2 @@
+report TAINTED via raw
+report_fixed TAINTED via safe

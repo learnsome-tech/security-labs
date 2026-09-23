@@ -1,0 +1,10 @@
+# Application Security & Threat Modeling for Engineers — lesson m03l02 — SQL Injection: The Exploit
+# https://learnsome.tech/courses/security-course/watch?lesson=m03l02
+# © LearnSome.tech
+import sqlite3
+con=sqlite3.connect(':memory:')
+con.execute('create table users (name, secret)')
+rows=[('alice','a1'),('bob','b2')]
+con.executemany('insert into users values (?, ?)', rows)
+name="alice' OR '1'='1"
+print(con.execute('select name from users where name=?',(name,)).fetchall())

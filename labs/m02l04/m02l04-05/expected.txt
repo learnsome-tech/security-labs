@@ -1,0 +1,3 @@
+fresh accepted remaining: 20 seconds
+old REJECTED remaining: 0 seconds
+fresh token after time advances: False

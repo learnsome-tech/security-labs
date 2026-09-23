@@ -1,0 +1,5 @@
+app:debian built on python:3.12-slim
+   packages: 7 findings: 8 in the base: 5
+app:alpine built on python:3.12-alpine
+   packages: 7 findings: 3 in the base: 0
+your own dependencies survived the swap untouched

@@ -1,0 +1,4 @@
+workload: billing-api
+audience allowed: True
+token lifetime: 20 seconds
+application stores private key: False

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "httpx-2.1.0.whl",
+    "name": "httpx",
+    "version": "2.1.0",
+    "sha256": "b2965db10e5a90ec1828fd0132a9b70f6823786ee8d724cba9951869fe933f68"
+  },
+  {
+    "file": "rich-13.7.1.whl",
+    "name": "rich",
+    "version": "13.7.1",
+    "sha256": "78f6baf419e99c18be455e43a0224272b89d2a523dbf48b8ee4d77a285623c68"
+  },
+  {
+    "file": "idna-3.7.whl",
+    "name": "idna",
+    "version": "3.7",
+    "sha256": "46b6a4585bdb1f86662e9a304bd9fbed1e8d31c3e626b1e2b8fd2781bc76a43d"
+  },
+  {
+    "file": "certifi-2024.7.4.whl",
+    "name": "certifi",
+    "version": "2024.7.4",
+    "sha256": "1c09f7fb45863cecc4fcfac9f13ae5c9f7c01f79428738f126259d00a0f534e2"
+  }
+]

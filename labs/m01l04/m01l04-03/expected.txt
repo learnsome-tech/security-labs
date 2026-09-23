@@ -1,0 +1,7 @@
+laptop, tls check off: False
+Traceback (most recent call last):
+  File "secure_defaults.py", line 19, in <module>
+    print(start("production", {"verify_tls": False}))
+  File "secure_defaults.py", line 14, in start
+    raise ValueError("refusing to start: " + key + " is unsafe here")
+ValueError: refusing to start: verify_tls is unsafe here

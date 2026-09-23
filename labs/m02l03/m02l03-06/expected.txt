@@ -1,0 +1,4 @@
+first call: demo fetches: 1
+second call: demo fetches: 1
+after the lease ends: demo fetches: 2
+refused: lease on version 1 ended

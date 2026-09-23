@@ -1,0 +1,8 @@
+# requirements.lock: generated, committed, never hand edited
+# install with: pip install --require-hashes -r requirements.lock
+httpx==2.1.0 \
+--hash=sha256:b2965db10e5a90ec1828fd0132a9b70f6823786ee8d724cba9951869fe933f68
+rich==13.7.1 \
+--hash=sha256:78f6baf419e99c18be455e43a0224272b89d2a523dbf48b8ee4d77a285623c68
+idna==3.7 \
+--hash=sha256:46b6a4585bdb1f86662e9a304bd9fbed1e8d31c3e626b1e2b8fd2781bc76a43d

@@ -1,0 +1,5 @@
+sequential identifiers tried: 400
+orders discovered by guessing: 0
+now one identifier leaks through a referer header
+  (200, {'owner': 'alice'})
+random identifiers hide the door; they do not lock it

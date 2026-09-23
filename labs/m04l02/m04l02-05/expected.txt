@@ -1,0 +1,4 @@
+his own account, his own order
+  (200, {'customer': 'c-7', 'total': '9.50'})
+his own account, somebody else's order
+  (404, {'error': 'no such order'})

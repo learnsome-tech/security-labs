@@ -1,0 +1,2 @@
+vulnerable query returns both rows
+[('alice',), ('bob',)]

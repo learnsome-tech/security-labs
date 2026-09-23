@@ -1,0 +1,5 @@
+baseline findings: 2
+new findings: 2
+FAIL new: SEC104 new weak hash
+FAIL new: SECRET new token
+change accepted: False

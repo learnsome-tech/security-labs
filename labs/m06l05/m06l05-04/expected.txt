@@ -1,0 +1,4 @@
+scanner rows: 4
+underlying issues: 2
+assign once: ('app.py', 4, 'SEC101')
+assign once: ('image', 'curl', 'CVE-2023-38545')

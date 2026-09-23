@@ -1,0 +1,4 @@
+mode on the secret file: 0o600
+group or other can read it: False
+token read from the file: sk-live-demo
+token in the environment: None

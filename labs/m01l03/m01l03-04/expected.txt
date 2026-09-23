@@ -1,0 +1,4 @@
+can the build role delete a bucket: False
+can it attach a policy to itself: True
+it attached AdministratorAccess to itself
+can it delete a bucket now: True

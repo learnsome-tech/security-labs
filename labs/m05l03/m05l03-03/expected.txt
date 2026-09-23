@@ -1,0 +1,5 @@
+not affected: pkg:pypi/requests@2.32.3 - other package
+AFFECTED: pkg:pypi/urllib3@1.26.5
+not affected: pkg:pypi/urllib3@2.2.3
+not affected: pkg:pypi/jinja2@3.1.4 - other package
+a text compare would have said fixed: True

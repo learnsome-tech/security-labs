@@ -1,0 +1,8 @@
+entry point: password reset
+  S answered can someone pretend to be this?
+  T answered can someone change it in flight?
+  R answered can someone deny doing it?
+  I answered can someone read what they should not?
+  D answered can someone exhaust it?
+  E OPEN can someone gain rights they were not given?
+open questions: 1

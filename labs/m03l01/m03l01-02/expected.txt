@@ -1,0 +1,4 @@
+sql: SELECT body FROM doc WHERE owner = 'bob'
+normal: ['lunch']
+sql: SELECT body FROM doc WHERE owner = 'bob' OR '1'='1'
+attack: ['budget', 'lunch']

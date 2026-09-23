@@ -1,0 +1,4 @@
+ALLOW get pods
+ALLOW get secrets
+ALLOW delete nodes
+a pod with this role can read every service account token

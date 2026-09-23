@@ -1,0 +1,2 @@
+INFO GET /v1/charges?limit=10 -> 200
+INFO POST /v1/webhooks?api_key=sk-live-4d1f-demo -> 200

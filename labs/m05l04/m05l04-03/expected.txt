@@ -1,0 +1,4 @@
+signature: 7d0f2ff6b5c3faa2074c
+expected signer accepts release: True
+expected signer accepts changed bytes: False
+signature covers bytes, not a version label

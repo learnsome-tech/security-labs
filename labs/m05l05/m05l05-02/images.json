@@ -1,0 +1,1 @@
+[{"name": "debian-full", "packages": ["bash", "apt", "curl", "perl", "libc", "openssl", "ca-certificates"], "shell": true, "manager": true}, {"name": "distroless-runtime", "packages": ["libc", "ca-certificates"], "shell": false, "manager": false}]

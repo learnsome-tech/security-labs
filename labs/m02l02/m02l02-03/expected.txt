@@ -1,0 +1,3 @@
+child sees API_TOKEN: sk-live-4d1f-demo
+the service holds the token
+every helper it shells out to receives the same copy

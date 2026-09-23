@@ -1,0 +1,4 @@
+CRITICAL reachable fix - public api injection
+HIGH reachable fix - secret in build log
+HIGH unreachable fix - unused image package
+MEDIUM reachable no fix - known library issue

@@ -1,0 +1,4 @@
+create, with the promotion attempt attached:
+  (200, {'balance': 0, 'email': '', 'name': 'mallory', 'role': 'customer'})
+update, where even the name is not writable:
+  (200, {'balance': 0, 'email': 'm@x.io', 'name': 'mallory', 'role': 'customer'})

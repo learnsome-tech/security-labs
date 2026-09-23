@@ -1,0 +1,5 @@
+you typed one install command for: report-cli
+packages actually installed: 9
+deepest transitive level: 4
+accounts that can ship you code: 10
+any one of those accounts is enough

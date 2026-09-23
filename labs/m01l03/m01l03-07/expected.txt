@@ -1,0 +1,4 @@
+ALLOW get pods
+deny get secrets
+deny delete nodes
+the same pod can no longer read one secret

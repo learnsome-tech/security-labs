@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "hooks"
+backend-path = ["."]
+
+[project]
+name = "friendly-utils"
+version = "1.0.0"

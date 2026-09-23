@@ -1,0 +1,2 @@
+https://public.example/report fetched: True
+http://169.254.169.254/latest fetched: True

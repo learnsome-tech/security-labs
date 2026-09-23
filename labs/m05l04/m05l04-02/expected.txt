@@ -1,0 +1,4 @@
+recorded digest: ff6e666b218b349e
+release copy matches: True
+tampered copy matches: False
+the digest identifies bytes, not the author

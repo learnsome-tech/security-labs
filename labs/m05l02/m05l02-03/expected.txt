@@ -1,0 +1,6 @@
+bytes we asked for: 51
+digest in the lock: d0de8b6b1c4b2b0b9774cf9c73a7dc2f
+one bit flipped in one byte, nothing else changed
+digest of what arrived: cc72db7d2cc964c4e82a90036bd683e0
+same length: True
+verdict: REJECT the artefact

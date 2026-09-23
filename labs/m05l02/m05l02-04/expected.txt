@@ -1,0 +1,6 @@
+PASS  httpx 2.1.0
+PASS  rich 13.7.1
+FAIL  idna 3.7 - wrong bytes
+   locked 46b6a4585bdb1f86662e9a304bd9
+   served e42c68ca83ed08d265e0346e6f30
+FAIL  certifi-2024.7.4.whl - locked, but nothing arrived

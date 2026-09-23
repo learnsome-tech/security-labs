@@ -1,0 +1,7 @@
+CROSSES browser to web app carrying card number
+  -> must be encrypted, minimised or not sent at all
+CROSSES web app to payments API carrying card number
+  -> must be encrypted, minimised or not sent at all
+internal web app to database carrying order
+CROSSES web app to log service carrying card number
+  -> must be encrypted, minimised or not sent at all

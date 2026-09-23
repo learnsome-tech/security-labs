@@ -1,0 +1,3 @@
+token loaded from the environment: sk-live-demo
+the source file holds no credential
+the deployment holds it instead

@@ -1,0 +1,3 @@
+child sees API_TOKEN: None
+the service still holds the token
+the child was given an environment, not handed ours

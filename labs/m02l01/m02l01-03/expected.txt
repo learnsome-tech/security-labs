@@ -1,0 +1,2 @@
+request failed: upstream did not answer
+context: {'host': 'api.example.com', 'token': 'sk-live-4d1f-demo'}

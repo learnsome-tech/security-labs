@@ -1,0 +1,2 @@
+Set-Cookie: session=abc123; Secure; HttpOnly; SameSite=Lax; Path=/
+Set-Cookie: session=abc123; Secure; SameSite=None; Path=/
