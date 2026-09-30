@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-05",
+  "lesson": "m01l02",
+  "title": "Exploit: believing the role the client sent",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 role_vuln.py",
+  "main": "role_vuln.py",
+  "files": [
+    "role_vuln.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

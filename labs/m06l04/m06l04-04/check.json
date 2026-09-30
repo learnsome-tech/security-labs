@@ -1,0 +1,19 @@
+{
+  "lab": "m06l04-04",
+  "lesson": "m06l04",
+  "title": "A working tree can be clean while history is not",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 history.py",
+  "main": "history.py",
+  "files": [
+    "history.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

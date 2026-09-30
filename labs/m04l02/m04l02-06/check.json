@@ -1,0 +1,18 @@
+{
+  "lab": "m04l02-06",
+  "lesson": "m04l02",
+  "title": "Unguessable identifiers are depth, not defence",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "ids.py",
+  "files": [
+    "httplab.py",
+    "ids.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "Exploit: nobody typed anything wrong",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 insecure_defaults.py",
+  "main": "insecure_defaults.py",
+  "files": [
+    "insecure_defaults.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,23 +1,27 @@
-# Authentication Versus Authorisation
+# m01l02 · Authentication Versus Authorisation
 
-**Course**: [Application Security & Threat Modeling for Engineers](https://learnsome.tech/courses/security-course)  
-**Module**: The Security Mindset  
-**Lesson**: `m01l02`
+Module 1: The Security Mindset · lesson 1.2 · Free · [Open the lesson](https://learnsome.tech/learn/security-course/m01l02)
 
-## Links
+**Goal:** You can say which of the two questions a piece of code is answering, verify a password safely with a memory-hard hash and a constant-time compare, and spot the two classic authorisation mistakes: no ownership check, and trusting a role the client sent.
 
-- [Watch lesson](https://learnsome.tech/courses/security-course/watch?lesson=m01l02)
-- [Handbook](https://learnsome.tech/courses/security-course/book#lesson-1-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l02-02](m01l02-02/) | Authentication, done the boring correct way | Graded |
+| [m01l02-03](m01l02-03/) | Exploit: authenticated, and reading somebody else's note | Graded |
+| [m01l02-04](m01l02-04/) | Fix: the owner is part of the lookup | Graded |
+| [m01l02-05](m01l02-05/) | Exploit: believing the role the client sent | Graded |
+| [m01l02-06](m01l02-06/) | Fix: the server decides what the caller is | Graded |
 
-- [`m01l02-02/`](m01l02-02/)
-- [`m01l02-03/`](m01l02-03/)
-- [`m01l02-04/`](m01l02-04/)
-- [`m01l02-05/`](m01l02-05/)
-- [`m01l02-06/`](m01l02-06/)
+## Check yourself
+
+- In one sentence each, what question does authentication answer and what question does authorisation answer?
+- Why is compare_digest used instead of the equality operator when checking a derived key?
+- Why should the ownership check live inside the database query rather than after it?
+- Why does the fixed lookup answer no such note rather than forbidden?
+- Name three things a client can send that are not evidence of that client's rights.
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Application Security & Threat Modeling for Engineers on LearnSome.tech](https://learnsome.tech/courses/security-course)

@@ -1,0 +1,20 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "Find several dangerous patterns in one file",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sast.py",
+  "main": "sast.py",
+  "files": [
+    "app.py",
+    "sast.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

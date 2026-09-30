@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-03",
+  "lesson": "m04l04",
+  "title": "Fix: stop the expensive check after the budget",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 brute_fixed.py",
+  "main": "brute_fixed.py",
+  "files": [
+    "brute_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

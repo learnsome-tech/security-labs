@@ -1,0 +1,21 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "Deleting a committed secret does not remove it",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash leak.sh",
+  "main": "leak.sh",
+  "files": [
+    "command.txt",
+    "leak.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "git"
+  ],
+  "note": null
+}

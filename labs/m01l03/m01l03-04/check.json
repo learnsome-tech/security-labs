@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-04",
+  "lesson": "m01l03",
+  "title": "The permissions that grant permissions",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 escalate.py",
+  "main": "escalate.py",
+  "files": [
+    "escalate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-03",
+  "lesson": "m02l01",
+  "title": "Exploit: the helpful exception handler",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dump_vuln.py",
+  "main": "dump_vuln.py",
+  "files": [
+    "dump_vuln.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

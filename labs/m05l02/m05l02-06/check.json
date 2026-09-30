@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-06",
+  "lesson": "m05l02",
+  "title": "Reproducible builds pin the process",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 reproduce.py",
+  "main": "reproduce.py",
+  "files": [
+    "reproduce.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

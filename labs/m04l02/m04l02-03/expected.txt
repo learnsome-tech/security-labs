@@ -1,5 +1,0 @@
-bob signs in and reads his own order, unchanged
-  (200, {'owner': 'bob', 'total': '9.50', 'card': '1881'})
-  1001 (404, {'error': 'no such order'})
-  1002 (200, {'owner': 'bob', 'total': '9.50', 'card': '1881'})
-  1003 (404, {'error': 'no such order'})

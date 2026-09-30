@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-02",
+  "lesson": "m01l02",
+  "title": "Authentication, done the boring correct way",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 authn.py",
+  "main": "authn.py",
+  "files": [
+    "authn.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-06",
+  "lesson": "m02l03",
+  "title": "Leases: cache, refetch, and refuse an expired one",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 expiry.py",
+  "main": "expiry.py",
+  "files": [
+    "expiry.py",
+    "lease.py",
+    "vault.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

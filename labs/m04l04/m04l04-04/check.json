@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-04",
+  "lesson": "m04l04",
+  "title": "Exploit and fix: an unbounded page size",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 paging.py",
+  "main": "paging.py",
+  "files": [
+    "paging.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

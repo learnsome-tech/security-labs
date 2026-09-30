@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-03",
+  "lesson": "m05l05",
+  "title": "A Dockerfile can make root explicit",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dockerfile_check.py",
+  "main": "dockerfile_check.py",
+  "files": [
+    "dockerfile_check.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

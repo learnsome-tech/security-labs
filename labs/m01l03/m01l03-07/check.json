@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-07",
+  "lesson": "m01l03",
+  "title": "Fix: the verbs and resources the workload uses",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 rbac_narrow.py",
+  "main": "rbac_narrow.py",
+  "files": [
+    "rbac_narrow.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

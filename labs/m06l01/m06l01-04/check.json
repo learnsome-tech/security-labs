@@ -1,0 +1,20 @@
+{
+  "lab": "m06l01-04",
+  "lesson": "m06l01",
+  "title": "Taint analysis follows data to a sink",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 taint.py",
+  "main": "taint.py",
+  "files": [
+    "taint.py",
+    "taint_app.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

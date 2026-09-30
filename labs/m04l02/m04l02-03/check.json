@@ -1,0 +1,18 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "Fix: the owner belongs inside the lookup",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bola_fixed.py",
+  "files": [
+    "bola_fixed.py",
+    "httplab.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-05",
+  "lesson": "m05l01",
+  "title": "Treat a new dependency the way you treat code",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 gate.py",
+  "main": "gate.py",
+  "files": [
+    "gate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

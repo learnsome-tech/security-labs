@@ -1,4 +1,0 @@
-the documented update adds a delivery note:
-  (200, {'note': 'back door', 'owner_id': 'u-bob', 'refunded': False, 'status': 'pending'})
-the undocumented update rewrites state and ownership:
-  (200, {'note': 'back door', 'owner_id': 'u-mallory', 'refunded': True, 'status': 'paid'})

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-04",
+  "lesson": "m02l02",
+  "title": "Exploit: the diagnostics dump prints it too",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dump_env.py",
+  "main": "dump_env.py",
+  "files": [
+    "dump_env.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-06",
+  "lesson": "m01l03",
+  "title": "Exploit: the asterisk in a Kubernetes rule",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 rbac_wide.py",
+  "main": "rbac_wide.py",
+  "files": [
+    "rbac_wide.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

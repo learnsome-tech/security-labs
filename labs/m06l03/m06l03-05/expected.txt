@@ -1,5 +1,0 @@
-registry.example/app@sha256:deadbeef
-Total: 2 (HIGH: 1, CRITICAL: 1)
-HIGH   curl    8.1.2   8.4.0   fix available
-CRITICAL xz-utils 5.6.0 5.6.2   fix available
-exit status 1: release blocked

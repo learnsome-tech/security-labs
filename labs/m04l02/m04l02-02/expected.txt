@@ -1,6 +1,0 @@
-bob signs in and reads his own order
-  (200, {'owner': 'bob', 'total': '9.50', 'card': '1881'})
-bob then counts around his own identifier
-  1001 (200, {'owner': 'alice', 'total': '310.00', 'card': '4242'})
-  1002 (200, {'owner': 'bob', 'total': '9.50', 'card': '1881'})
-  1003 (404, {'error': 'no such order'})

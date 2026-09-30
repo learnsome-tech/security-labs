@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-02",
+  "lesson": "m04l04",
+  "title": "Exploit: unlimited guesses reveal the password",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 brute.py",
+  "main": "brute.py",
+  "files": [
+    "brute.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

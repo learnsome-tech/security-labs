@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-03",
+  "lesson": "m01l03",
+  "title": "Fix: name the action and name the resource",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 iam_scoped.py",
+  "main": "iam_scoped.py",
+  "files": [
+    "iam_scoped.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

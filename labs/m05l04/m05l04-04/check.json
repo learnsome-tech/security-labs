@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-04",
+  "lesson": "m05l04",
+  "title": "Provenance makes the build claim testable",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 provenance.py",
+  "main": "provenance.py",
+  "files": [
+    "provenance.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

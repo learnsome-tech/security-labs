@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-06",
+  "lesson": "m02l02",
+  "title": "Fix: a file only the service account can read",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 file_fixed.py",
+  "main": "file_fixed.py",
+  "files": [
+    "file_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,23 @@
+{
+  "lab": "m05l01-03",
+  "lesson": "m05l01",
+  "title": "Install time: code runs before you run anything",
+  "mode": "graded",
+  "runner": "recorded",
+  "command": "python3 installer.py",
+  "main": "hooks.py",
+  "files": [
+    "command.txt",
+    "hooks.py",
+    "installer.py",
+    "pyproject.toml"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "python3"
+  ],
+  "note": null
+}

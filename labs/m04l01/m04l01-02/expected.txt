@@ -1,6 +1,6 @@
 what the authority actually signed:
-subject=CN=orders.internal
-issuer=CN=Course Root CA
+subject=CN = orders.internal
+issuer=CN = Course Root CA
 valid for the name: orders.internal
 does the chain verify:
 srv.pem: OK

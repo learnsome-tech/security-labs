@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-06",
+  "lesson": "m06l05",
+  "title": "Make exceptions expire",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 exceptions.py",
+  "main": "exceptions.py",
+  "files": [
+    "exceptions.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

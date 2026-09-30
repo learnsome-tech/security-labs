@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Fail closed: the new route nobody thought about",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 failclosed.py",
+  "main": "failclosed.py",
+  "files": [
+    "failclosed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m06l01-05",
+  "lesson": "m06l01",
+  "title": "The fix changes the construction, not the warning",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fixed.py",
+  "main": "fixed.py",
+  "files": [
+    "fixed.py",
+    "fixed_app.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

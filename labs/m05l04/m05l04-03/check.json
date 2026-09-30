@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-03",
+  "lesson": "m05l04",
+  "title": "Signing and verifying the exact artefact",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sign.py",
+  "main": "sign.py",
+  "files": [
+    "sign.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

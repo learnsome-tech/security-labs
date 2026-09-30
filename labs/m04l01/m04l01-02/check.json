@@ -1,0 +1,22 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "Signing a certificate with your own authority",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash certs.sh",
+  "main": "certs.sh",
+  "files": [
+    "certs.sh",
+    "command.txt",
+    "ext.cnf"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "openssl"
+  ],
+  "note": null
+}

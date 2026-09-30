@@ -1,0 +1,18 @@
+{
+  "lab": "m04l03-02",
+  "lesson": "m04l03",
+  "title": "Exploit: signing up as an administrator",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "mass_vuln.py",
+  "files": [
+    "apilab.py",
+    "mass_vuln.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

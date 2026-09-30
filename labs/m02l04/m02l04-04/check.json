@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-04",
+  "lesson": "m02l04",
+  "title": "Wrong audience and wrong workload are refused",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 reject.py",
+  "main": "reject.py",
+  "files": [
+    "reject.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

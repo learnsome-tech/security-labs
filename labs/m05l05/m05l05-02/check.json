@@ -1,0 +1,20 @@
+{
+  "lab": "m05l05-02",
+  "lesson": "m05l05",
+  "title": "Count the packages a base image brings",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 basecheck.py",
+  "main": "basecheck.py",
+  "files": [
+    "basecheck.py",
+    "images.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

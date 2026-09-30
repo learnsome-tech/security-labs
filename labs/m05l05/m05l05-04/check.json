@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-04",
+  "lesson": "m05l05",
+  "title": "The process really runs with a reduced identity",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 identity.py",
+  "main": "identity.py",
+  "files": [
+    "identity.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,20 +1,35 @@
-# SQL Injection: The Exploit
+# m03l02 · SQL Injection: The Exploit
 
-**Course**: [Application Security & Threat Modeling for Engineers](https://learnsome.tech/courses/security-course)  
-**Module**: Web Vulnerabilities  
-**Lesson**: `m03l02`
+Module 3: Web Vulnerabilities · lesson 3.2 · Pro · [Open the lesson](https://learnsome.tech/learn/security-course/m03l02)
 
-## Links
+**Goal:** You can demonstrate a query whose predicate is changed by input and observe rows that should remain hidden.
 
-- [Watch lesson](https://learnsome.tech/courses/security-course/watch?lesson=m03l02)
-- [Handbook](https://learnsome.tech/courses/security-course/book#lesson-3-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m03l02-02](m03l02-02/) | Exploit: input changes the operation | Graded |
+| [m03l02-03](m03l02-03/) | Fix: keep the value as data | Graded |
 
-- [`m03l02-02/`](m03l02-02/)
-- [`m03l02-03/`](m03l02-03/)
+## Exercises
+
+Open exercises from the lesson, to try on your own. They have no answer files: work them out, and use the labs above as reference.
+
+### Practice the boundary
+
+1. Choose one vulnerable path in a disposable test.
+2. Run the exploit and record its observed effect.
+3. Apply the fix and rerun the same input.
+4. Keep the regression test in the repository.
+
+> **Hint:** Use fake data and an isolated test target.
+
+## Check yourself
+
+- Where does input cross into an interpreter?
+- What output proves the exploit worked?
+- What boundary does the fix restore?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Application Security & Threat Modeling for Engineers on LearnSome.tech](https://learnsome.tech/courses/security-course)

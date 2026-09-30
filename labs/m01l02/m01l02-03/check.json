@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-03",
+  "lesson": "m01l02",
+  "title": "Exploit: authenticated, and reading somebody else's note",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bola_vuln.py",
+  "main": "bola_vuln.py",
+  "files": [
+    "bola_vuln.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

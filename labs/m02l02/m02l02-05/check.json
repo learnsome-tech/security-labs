@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-05",
+  "lesson": "m02l02",
+  "title": "Fix: give the child an environment, do not hand over yours",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 child_fixed.py",
+  "main": "child_fixed.py",
+  "files": [
+    "child_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

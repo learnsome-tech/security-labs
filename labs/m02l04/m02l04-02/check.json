@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-02",
+  "lesson": "m02l04",
+  "title": "Static credentials stay valid until somebody rotates them",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 static.py",
+  "main": "static.py",
+  "files": [
+    "static.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

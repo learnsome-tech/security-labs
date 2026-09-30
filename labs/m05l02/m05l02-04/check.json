@@ -1,0 +1,23 @@
+{
+  "lab": "m05l02-04",
+  "lesson": "m05l02",
+  "title": "A lock verifier, in fifteen lines",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 lockcheck.py",
+  "main": "lockcheck.py",
+  "files": [
+    "dist/httpx-2.1.0.whl",
+    "dist/idna-3.7.whl",
+    "dist/rich-13.7.1.whl",
+    "lock.json",
+    "lockcheck.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

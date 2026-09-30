@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-04",
+  "lesson": "m02l01",
+  "title": "Fix: a type that refuses to print itself",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dump_fixed.py",
+  "main": "dump_fixed.py",
+  "files": [
+    "dump_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Exploit: what a wildcard policy actually grants",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 iam_wide.py",
+  "main": "iam_wide.py",
+  "files": [
+    "iam_wide.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

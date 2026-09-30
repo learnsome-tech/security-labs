@@ -1,0 +1,21 @@
+{
+  "lab": "m05l03-04",
+  "lesson": "m05l03",
+  "title": "Two different documents: source and image",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 imagebom.py",
+  "main": "imagebom.py",
+  "files": [
+    "base-image.json",
+    "imagebom.py",
+    "sbom.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

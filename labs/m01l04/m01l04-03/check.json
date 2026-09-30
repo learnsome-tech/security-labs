@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-03",
+  "lesson": "m01l04",
+  "title": "Fix: safe by default, and refused where it matters",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 secure_defaults.py",
+  "main": "secure_defaults.py",
+  "files": [
+    "secure_defaults.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-04",
+  "lesson": "m03l01",
+  "title": "Injection three: the template string",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 concat_format.py",
+  "main": "concat_format.py",
+  "files": [
+    "concat_format.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "Exploit: every child process inherits it",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 child_vuln.py",
+  "main": "child_vuln.py",
+  "files": [
+    "child_vuln.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

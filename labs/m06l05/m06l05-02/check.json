@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-02",
+  "lesson": "m06l05",
+  "title": "Rank by risk and action",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 prioritise.py",
+  "main": "prioritise.py",
+  "files": [
+    "prioritise.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

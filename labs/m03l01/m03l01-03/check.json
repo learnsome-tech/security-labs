@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-03",
+  "lesson": "m03l01",
+  "title": "Injection two: the command shell",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 concat_shell.py",
+  "main": "concat_shell.py",
+  "files": [
+    "concat_shell.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

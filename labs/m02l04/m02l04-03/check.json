@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-03",
+  "lesson": "m02l04",
+  "title": "Exchange an attested workload for a short token",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 exchange.py",
+  "main": "exchange.py",
+  "files": [
+    "exchange.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

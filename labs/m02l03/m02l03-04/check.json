@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-04",
+  "lesson": "m02l03",
+  "title": "An authorised read, a refusal, and the audit trail",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fetch.py",
+  "main": "fetch.py",
+  "files": [
+    "fetch.py",
+    "lease.py",
+    "vault.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

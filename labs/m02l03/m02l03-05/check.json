@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-05",
+  "lesson": "m02l03",
+  "title": "Rotation: version two becomes current",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 rotate.py",
+  "main": "rotate.py",
+  "files": [
+    "lease.py",
+    "rotate.py",
+    "vault.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

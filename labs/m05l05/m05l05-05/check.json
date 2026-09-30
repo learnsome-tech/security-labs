@@ -1,0 +1,19 @@
+{
+  "lab": "m05l05-05",
+  "lesson": "m05l05",
+  "title": "Drop capabilities and make the filesystem read only",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 runtime_policy.py",
+  "main": "runtime_policy.py",
+  "files": [
+    "runtime_policy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

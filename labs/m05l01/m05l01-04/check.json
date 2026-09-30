@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-04",
+  "lesson": "m05l01",
+  "title": "Name confusion, measured rather than guessed",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 typosquat.py",
+  "main": "typosquat.py",
+  "files": [
+    "typosquat.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

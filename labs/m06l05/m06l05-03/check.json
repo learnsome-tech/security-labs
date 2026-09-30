@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-03",
+  "lesson": "m06l05",
+  "title": "Baseline old debt and fail on new debt",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 baseline.py",
+  "main": "baseline.py",
+  "files": [
+    "baseline.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

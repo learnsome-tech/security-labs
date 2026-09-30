@@ -1,0 +1,19 @@
+{
+  "lab": "m05l04-05",
+  "lesson": "m05l04",
+  "title": "Reject the wrong builder before deployment",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 policy.py",
+  "main": "policy.py",
+  "files": [
+    "policy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

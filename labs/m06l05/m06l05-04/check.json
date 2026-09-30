@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-04",
+  "lesson": "m06l05",
+  "title": "Deduplicate findings before assigning work",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dedupe.py",
+  "main": "dedupe.py",
+  "files": [
+    "dedupe.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

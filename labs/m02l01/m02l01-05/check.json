@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-05",
+  "lesson": "m02l01",
+  "title": "Exploit: the request logger that records everything",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 log_vuln.py",
+  "main": "log_vuln.py",
+  "files": [
+    "log_vuln.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

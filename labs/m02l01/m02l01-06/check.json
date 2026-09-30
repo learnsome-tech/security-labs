@@ -1,0 +1,19 @@
+{
+  "lab": "m02l01-06",
+  "lesson": "m02l01",
+  "title": "Fix: mask at the logger, not at every call site",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 log_fixed.py",
+  "main": "log_fixed.py",
+  "files": [
+    "log_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

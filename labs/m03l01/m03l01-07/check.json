@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-07",
+  "lesson": "m03l01",
+  "title": "The same three inputs, defended",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 defended.py",
+  "main": "defended.py",
+  "files": [
+    "defended.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

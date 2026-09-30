@@ -1,4 +1,0 @@
-the documented signup request:
-  (201, {'balance': 0, 'name': 'mallory', 'role': 'customer'})
-the same endpoint, with two fields nobody wrote down:
-  (201, {'balance': 9999, 'name': 'mallory', 'role': 'admin'})

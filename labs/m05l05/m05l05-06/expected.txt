@@ -1,5 +1,0 @@
-registry.example/app:release (debian 12)
-Total: 2 (HIGH: 1, CRITICAL: 1)
-HIGH   openssl   3.0.11   3.0.14   fix available
-CRITICAL glibc    2.36     2.36-9  fix available
-exit status 1: release blocked

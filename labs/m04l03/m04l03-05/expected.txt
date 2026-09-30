@@ -1,4 +1,0 @@
-a clean request, only documented fields:
-  (201, {'balance': 0, 'email': 'm@x.io', 'name': 'mallory', 'role': 'customer'})
-the same attack, now answered rather than absorbed:
-  (400, {'error': 'unknown fields rejected', 'fields': ['balance', 'role']})

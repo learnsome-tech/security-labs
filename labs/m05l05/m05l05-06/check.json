@@ -1,0 +1,18 @@
+{
+  "lab": "m05l05-06",
+  "lesson": "m05l05",
+  "title": "Scan the image before it becomes a release",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "scan-image.sh",
+  "files": [
+    "command.txt",
+    "scan-image.sh"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l01-05",
+  "lesson": "m01l01",
+  "title": "The open questions are the output",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 stride.py",
+  "main": "stride.py",
+  "files": [
+    "stride.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

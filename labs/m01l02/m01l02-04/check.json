@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-04",
+  "lesson": "m01l02",
+  "title": "Fix: the owner is part of the lookup",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bola_fixed.py",
+  "main": "bola_fixed.py",
+  "files": [
+    "bola_fixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

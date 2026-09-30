@@ -1,0 +1,19 @@
+{
+  "lab": "m06l04-05",
+  "lesson": "m06l04",
+  "title": "Stop a new secret at the commit boundary",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hook.py",
+  "main": "hook.py",
+  "files": [
+    "hook.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}
